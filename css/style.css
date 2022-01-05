@@ -20,3 +20,21 @@
   width: 100%;
   margin: auto;
 }
+#tribute-info {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+
+}
+#tribute-info > ul {
+  padding: 0px 25%;
+
+}
+ul > li {
+  margin-top: 5px;
+}
+blockquote{  
+  padding:2px 35%;
+  font-style: italic;
+}
