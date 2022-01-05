@@ -1,5 +1,5 @@
 #main {
-  background-color: lightgray;
+  background-color: #EEEEEE;
   display: block;
   max-height: max-content;
   max-width: max-content;
@@ -12,11 +12,11 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  background-color: linen;
-  height: 60%;
-  width: 100%;
+  background-color: white;
+  margin: 10px 15px ;
+  padding: 20px 100px;
 }
 #image {
-  max-width: 500px;
+  width: 100%;
   margin: auto;
 }
